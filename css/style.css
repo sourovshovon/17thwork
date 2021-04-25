@@ -1,0 +1,38 @@
+.button{
+
+}
+
+
+.location{
+margin-top: 20px; 
+margin-bottom: 20px;
+border: 1px solid black;
+}
+.location iframe{
+	width: 100%;
+	height:400px;
+}
+
+.video{}
+.video iframe{
+	width:100%;
+	height:350px;
+}
+
+.offset-lg-4{
+	margin-bottom: 20px;
+}
+.offset-lg-4 btn btn-primary{
+	
+}
+.h2{
+	margin-bottom: 40px;
+}
+
+.form{
+	margin-top: 20px;
+}
+
+
+
+
